@@ -29,7 +29,7 @@ let climatePlaces = [
     ),
     ClimatePlace(
         name: "Temperate Forest",
-        climate: "Temperate",
+        climate: "Temperate Check",
         description: "Mixed forests with moderate rainfall and seasons",
         imageUrl: "https://images.unsplash.com/photo-1511497584788-876760111969?w=400&h=300&fit=crop"
     ),
