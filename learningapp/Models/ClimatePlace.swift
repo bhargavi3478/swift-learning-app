@@ -41,7 +41,7 @@ let climatePlaces = [
     ),
     ClimatePlace(
         name: "Grassland Savanna",
-        climate: "Savanna Check",
+        climate: "Savanna",
         description: "Golden plains with scattered trees and wildlife",
         imageUrl: "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=400&h=300&fit=crop"
     )
